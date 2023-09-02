@@ -18,66 +18,66 @@
     "AdMob_Native"           : "00000",
     
     
-    "Applovin_Banner"         : "e316f14f2d36e0a8",
-    "Applovin_InterstitialAd" : "d7e9ee2299f53dbe",
-    "Applovin_Native"         : "1cf7a3299f7bcea7"
+    "Applovin_Banner"         : "0000",
+    "Applovin_InterstitialAd" : "00000",
+    "Applovin_Native"         : "000000"
   },
   
  
   "MyList": [
     {
-      "title": "------",
+      "title": "Know the Prologue",
       "image": "https://raw.githubusercontent.com/fluxappsltd/sea-of-stars/main/1.png",
       "native" : true,
       "paragraph": [
-        "1- +++++++",
+        "1- Know the Prologue: The game has a prologue that introduces the characters and the story. It is essential to pay attention to the prologue to understand the game's mechanics and the characters' abilities.\n\n 2- Destroy the Locks: The game has locks that prevent you from accessing certain areas. You need to destroy these locks to progress. Look for items that can help you destroy the locks.\n\n 3- Swap Characters with Reckless Abandon: The game has multiple characters, each with unique abilities. It is essential to swap characters frequently to use their abilities to your advantage. ",
         "https://raw.githubusercontent.com/fluxappsltd/sea-of-stars/main/1.1.png",
-        "2- +++++++",
+        "4-Sell Ingredients: The game has a crafting system that requires ingredients. You can sell the ingredients you don't need to earn money.\n\n 5- Focus on a Single Hero: Early on, the best strategy is to focus on a single hero, making sure they level up quickly to deal big damage. The best heroes for this are those with high attack power.\n\n -6 Use Rainbow Conchs: Rainbow Conchs are items that can heal your party. Don't sleep on them and use them when needed. ",
         "https://raw.githubusercontent.com/fluxappsltd/sea-of-stars/main/1.2.png",
-        "3- ++++++++",
+        "7- Don't Buy Armor and Weapons Early: It is not necessary to buy armor and weapons early in the game. You can find them as you progress.\n\n 8- Look for Solstice Shrines: Solstice Shrines are hidden throughout the game. They provide a significant boost to your party's stats. Look for them, but don't go out of your way to find them.\n\n Change Your Brightness Setting: The game's visuals can be overwhelming at times. Adjusting the brightness setting can help you see better.\n\n 10- Use the Wheels: The game has wheels that provide rewards and bonuses. Use them to your advantage.  ",
           "https://raw.githubusercontent.com/fluxappsltd/sea-of-stars/main/1.3.png"
           
       ]
     },
     {
-      "title": "------",
+      "title": "how to level up quickly in Sea of Stars",
       "image": "https://raw.githubusercontent.com/fluxappsltd/sea-of-stars/main/2.png",
       "native" : true,
        "paragraph": [
-        "1- ++++++++",
-        "2- ++++++++",
+        "1- Focus on Battles: The best way to gain XP is by fighting enemies and bosses. Try to engage in battles as often as possible.",
+        "2- Use Abilities: Each character in Sea of Stars has unique abilities that can help you win battles and gain more XP. Use them to your advantage.",
         "https://raw.githubusercontent.com/fluxappsltd/sea-of-stars/main/2.1.png",
-        "3- ++++++++",
+        "3- Equip the Right Items: Equipping the right items can boost your characters' stats and help you win battles. Look for items that increase your attack power and defense.",
         "https://raw.githubusercontent.com/fluxappsltd/sea-of-stars/main/2.2.png",
-        "4- +++++++++"
+        "4- Use Rainbow Conchs: Rainbow Conchs are items that can heal your party and give you a significant boost in XP. Use them when needed."
       ]
     },
     {
-      "title": "-----",
+      "title": "Here are some of the best ways to earn XP",
       "image": "https://raw.githubusercontent.com/fluxappsltd/sea-of-stars/main/3.png",
       "native" : true,
       "paragraph": [
-        "1- +++++++",
+        "1- Defeat Enemies and Bosses: The most effective way to earn XP is by defeating enemies and bosses. Engage in battles as often as possible to gain more XP",
         "https://raw.githubusercontent.com/fluxappsltd/sea-of-stars/main/3.1.png",     
-        "2- +++++++",
-        "3- +++++++",
+        "2- Use Abilities: Each character in Sea of Stars has unique abilities that can help you win battles and gain more XP. Use them to your advantage",
+        "3- Equip the Right Items: Equipping the right items can boost your characters' stats and help you win battles. Look for items that increase your attack power and defense",
         "https://raw.githubusercontent.com/fluxappsltd/sea-of-stars/main/3.2.png",
-        "4- +++++++"
+        "4- Use Rainbow Conchs: Rainbow Conchs are items that can heal your party and give you a significant boost in XP. Use them when needed"
       ]
     
         
     },
     {
-      "title": "---------",
+      "title": "There is no specific enemy or boss",
       "image": "https://raw.githubusercontent.com/fluxappsltd/sea-of-stars/main/4.png",
       "native" : true,
       "paragraph": [
-        "1- +++++",
+        "1- However, defeating enemies and bosses is the most effective way to gain XP",
        "https://raw.githubusercontent.com/fluxappsltd/sea-of-stars/main/4.1.png",
-        "2- +++++",
-        "3- +++++",
+        "2- Early on, it is best to focus on a single hero to level up quickly and deal big damage",
+        "3- Equipping the right items and using unique abilities can also help you win battles and gain more XP",
         "https://raw.githubusercontent.com/fluxappsltd/sea-of-stars/main/4.2.png",
-        "4- ++++++"
+        "4- Additionally, using Rainbow Conchs can heal your party and give you a significant boost in XP"
         
       ]
         
