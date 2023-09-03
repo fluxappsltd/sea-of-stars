@@ -7,9 +7,9 @@
   
   "AdsController": {
       
-    "BannerNetwork"              : "applovin",
+    "BannerNetwork"              : "admob",
     "InterstitialNetwork"        : "applovin",
-    "NativeNetwork"              : "applovin",
+    "NativeNetwork"              : "admob",
     
     "IntervalClick"          : 1,
     "AdMob_ID"               : "pub-1809947459505682",
