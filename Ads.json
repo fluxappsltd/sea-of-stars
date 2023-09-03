@@ -12,15 +12,15 @@
     "NativeNetwork"              : "applovin",
     
     "IntervalClick"          : 1,
-    "AdMob_ID"               : "pub-3940256099942544",
-    "AdMob_Banner"           : "00000",
-    "AdMob_InterstitialAd"   : "00000",
-    "AdMob_Native"           : "00000",
+    "AdMob_ID"               : "pub-1809947459505682",
+    "AdMob_Banner"           : "ca-app-pub-1809947459505682/6511914014",
+    "AdMob_InterstitialAd"   : "ca-app-pub-1809947459505682/8806904861",
+    "AdMob_Native"           : "ca-app-pub-1809947459505682/3885750672",
     
     
-    "Applovin_Banner"         : "0000",
-    "Applovin_InterstitialAd" : "00000",
-    "Applovin_Native"         : "000000"
+    "Applovin_Banner"         : "38ce4d4c3136a8b4",
+    "Applovin_InterstitialAd" : "1477f8656b32080f",
+    "Applovin_Native"         : "d486879d18617d4d"
   },
   
  
